@@ -1,5 +1,3 @@
-#HI
-#HELLO
-#HOW ARE YOU ?
+# hello
 
-#Updated Readme
+# hi
